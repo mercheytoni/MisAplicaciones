@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "ultima_actualizacion": "2026-11-08T10:00:00Z",
+  "apps": [
+    {
+      "id": "app_calculadora",
+      "nombre": "Calculadora Pro",
+      "icono_url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/iconos/calculadora.png",
+      "resena_corta": "Calculadora científica rápida y sin anuncios.",
+      "descripcion_larga": "Una calculadora científica ligera pensada para el día a día. Incluye operaciones básicas, funciones trigonométricas, logaritmos, potencias y raíces. Funciona completamente offline.",
+      "version_app": "1.2.0",
+      "tamano": "8.4 MB",
+      "categoria": "Herramientas",
+      "enlace_descarga": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.2.0/calculadora-pro.apk",
+      "fecha_actualizacion": "2026-11-01",
+      "nuevo": true
+    },
+    {
+      "id": "app_notas",
+      "nombre": "Notas Rápidas",
+      "icono_url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/iconos/notas.png",
+      "resena_corta": "Toma notas al instante, sin distracciones.",
+      "descripcion_larga": "Una app de notas minimalista. Las notas se guardan en el dispositivo, sin cuentas ni nube.",
+      "version_app": "2.0.1",
+      "tamano": "5.1 MB",
+      "categoria": "Productividad",
+      "enlace_descarga": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v2.0.1/notas-rapidas.apk",
+      "fecha_actualizacion": "2026-10-10",
+      "nuevo": false
+    }
+  ]
+}
