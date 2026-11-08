@@ -5,7 +5,7 @@
     {
       "id": "mi_app",
       "nombre": "milistainteligente",
-      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/iconos/mi_app.png",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/iconos/icono.png",
       "resena_corta": "Tu cesta de la compra organizada.",
       "descripcion_larga": "Haz tu lista de la compra, y organiza por establecimientos y por secciones, llevando historico de compras y precios.",
       "version_app": "1.0.0",
