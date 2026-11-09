@@ -26,6 +26,30 @@
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Salud-v1.0.0/medicacion.V-7.apk",
       "fecha_actualizacion": "2026-11-09",
       "nuevo": true
+    },{
+  "version": 1,
+  "ultima_actualizacion": "2026-11-09T07:00:00Z",
+  "apps": [
+    {
+      "id": "mi_app",
+      "nombre": "milistainteligente",
+      ... (todo lo de tu primera app igual que ahora)
+      "nuevo": true
+    },
+    {
+      "id": "Mi-Garage",
+      "nombre": "Mi Garage",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/migarage.png",
+      "resena_corta": "Controla el mantenimiento de tus vehiculos.",
+      "descripcion_larga": "Lleva el control de gastos y mantenimiento de tus vehiculo, cuanto consume, cuando le tica la ITV, cuando vence el seguro etc, poniendote una reseña en el calendario.",
+      "version_app": "1.0.0",
+      "tamano": "9 MB",
+      "categoria": "Coches",
+      "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Coches-v1.0.0/migarage.V-2.apk",
+      "fecha_actualizacion": "2026-11-09",
+      "nuevo": true
     }
+  ]
+}
   ]
 }
