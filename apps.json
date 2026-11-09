@@ -14,6 +14,18 @@
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/v1.0.0/milistainteligente.V-5.apk",
       "fecha_actualizacion": "2026-11-08",
       "nuevo": true
+    },{
+      "id": "Mi_medicacion",
+      "nombre": "Medicacion",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/medicacion-icono.png",
+      "resena_corta": "Controla tu medicacion.",
+      "descripcion_larga": "Lleva un control de tu medicacion, con un inventario, aviso de tomas, de cotas medicas, todo ello avisado por mensaje en el calendario.",
+      "version_app": "1.0.0",
+      "tamano": "9 MB",
+      "categoria": "Salud",
+      "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Salud-v1.0.0/medicacion.V-7.apk",
+      "fecha_actualizacion": "2026-11-09",
+      "nuevo": true
     }
   ]
 }
