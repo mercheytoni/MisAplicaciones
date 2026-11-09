@@ -26,15 +26,6 @@
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Salud-v1.0.0/medicacion.V-7.apk",
       "fecha_actualizacion": "2026-11-09",
       "nuevo": true
-    },{
-  "version": 1,
-  "ultima_actualizacion": "2026-11-09T07:00:00Z",
-  "apps": [
-    {
-      "id": "mi_app",
-      "nombre": "milistainteligente",
-      ... (todo lo de tu primera app igual que ahora)
-      "nuevo": true
     },
     {
       "id": "Mi-Garage",
