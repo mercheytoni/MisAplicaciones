@@ -19,7 +19,7 @@
       "nombre": "Medicacion",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/medicacion-icono.png",
       "resena_corta": "Controla tu medicacion.",
-      "descripcion_larga": "Lleva un control de tu medicacion, con un inventario, aviso de tomas, de cotas medicas, todo ello avisado por mensaje en el calendario.",
+      "descripcion_larga": "Lleva un control de tu medicacion, con un inventario, aviso de tomas, de citas medicas, todo ello avisado por mensaje en el calendario.",
       "version_app": "1.0.0",
       "tamano": "9 MB",
       "categoria": "Salud",
@@ -32,7 +32,7 @@
       "nombre": "Mi Garage",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/migarage.png",
       "resena_corta": "Controla el mantenimiento de tus vehiculos.",
-      "descripcion_larga": "Lleva el control de gastos y mantenimiento de tus vehiculo, cuanto consume, cuando le tica la ITV, cuando vence el seguro etc, poniendote una reseña en el calendario.",
+      "descripcion_larga": "Lleva el control de gastos y mantenimiento de tus vehiculo, cuanto consume, cuando le toca la ITV, cuando vence el seguro etc, poniendote una reseña en el calendario.",
       "version_app": "1.0.0",
       "tamano": "9 MB",
       "categoria": "Coches",
@@ -41,8 +41,8 @@
       "nuevo": true
     },
 {
-  "id": "Mis_Contrasenas",
-      "nombre": "Mis Contrasenas",
+  "id": "Mis_Contraseñas",
+      "nombre": "Mis Contraseñas",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/miscontraseñas.png",
       "resena_corta": "Salvaguarda tus contraseñas y accesos.",
       "descripcion_larga": "Guarda tus contraseñas en un lugar seguro, y tenlas a disposicion de manera segura.",
@@ -54,5 +54,6 @@
       "nuevo": true
 }
   ]
+}
 
   
