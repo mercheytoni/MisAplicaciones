@@ -39,10 +39,9 @@
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Coches-v1.0.0/migarage.V-2.apk",
       "fecha_actualizacion": "2026-11-09",
       "nuevo": true
-    }
-  ]
-},
-{"id": "MisContrasñas",
+    },
+{
+  "id": "MisContrasñas",
       "nombre": "Mis Contraseñas",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/miscontraseñas.png",
       "resena_corta": "Salvaguarda tus contraseñas y accesos.",
@@ -54,4 +53,6 @@
       "fecha_actualizacion": "2026-11-11",
       "nuevo": true
 }
+  ]
+
   
