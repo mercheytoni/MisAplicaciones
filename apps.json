@@ -41,11 +41,11 @@
       "nuevo": true
     },
 {
-  "id": "Mis_Contraseñas",
-      "nombre": "Mis Contraseñas",
+  "id": "Mis_Contrasenas",
+      "nombre": "Mis Contrasenas",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/miscontraseñas.png",
       "resena_corta": "Salvaguarda tus contraseñas y accesos.",
-      "descripcion_larga": "Guarda tis contraseñas en un lugar seguro, y tenlas a disposicion de manera segura.",
+      "descripcion_larga": "Guarda tus contraseñas en un lugar seguro, y tenlas a disposicion de manera segura.",
       "version_app": "2.0.0",
       "tamano": "9 MB",
       "categoria": "Seguridad",
