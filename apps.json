@@ -52,8 +52,24 @@
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Seguridad-v1.0.0/mis_contrase_as.V-2.apk",
       "fecha_actualizacion": "2026-11-11",
       "nuevo": true
-}
+
+    },
+    {
+      "id": "mis_recetas",
+      "nombre": "Mis Recetas",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/misrecetas.png",
+      "resena_corta": "Recopilacion de recetas faciles y sencillas.",
+      "descripcion_larga": "Con esta aplicacion tendras un monton de recetas, faciles de hacer, y ordenadas por categorias, entrantes, postres, snaks, etc, que se iran actualizando periodicamente.",
+      "version_app": "2.0.0",
+      "tamano": "9 MB",
+      "categoria": "Comida",
+      "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Comida/misrecetas.V-2.apk",
+      "fecha_actualizacion": "2026-11-12",
+      "nuevo": true
+    }
   ]
-}
+    }
+  
+
 
   
