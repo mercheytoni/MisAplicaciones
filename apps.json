@@ -66,6 +66,21 @@
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Comida/misrecetas.V-2.apk",
       "fecha_actualizacion": "2026-11-12",
       "nuevo": true
+    
+    },
+    {
+      "id": "Mi Sespensa",
+      "nombre": "Mi Despensa",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MiDespensa.png",
+      "resena_corta": "Lleva in control de tu despensa.",
+      "descripcion_larga": "Controla tu fespensa, y vincula tus compras en la apk Mi lista inteligente, para mantener actualizada tu despensa.",
+      "version_app": "1.0.0",
+      "tamano": "6 MB",
+      "categoria": "Herramienta",
+      "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/untagged-bccc29595b24b15cca9d/midespensa.V-1.apk",
+      "fecha_actualizacion": "2026-11-12",
+      "nuevo": true
+  
     }
   ]
     }
