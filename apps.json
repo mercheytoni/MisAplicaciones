@@ -57,7 +57,7 @@
     {
       "id": "mis_recetas",
       "nombre": "Mis Recetas",
-      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/misrecetas.png",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MisRecetas.png",
       "resena_corta": "Recopilacion de recetas faciles y sencillas.",
       "descripcion_larga": "Con esta aplicacion tendras un monton de recetas, faciles de hacer, y ordenadas por categorias, entrantes, postres, snaks, etc, que se iran actualizando periodicamente.",
       "version_app": "2.0.0",
