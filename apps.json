@@ -7,7 +7,7 @@
       "nombre": "MiListaInteligente",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/icono.png",
       "resena_corta": "Tu cesta de la compra organizada.",
-      "descripcion_larga": "Haz tu lista de la compra, y organiza por establecimientos y por secciones, llevando historico de compras y precios.",
+      "descripcion_larga": "Haz tu lista de la compra, y organiza por establecimientos y por secciones, llevando historico de compras y precios y todo ello sin publicidad.",
       "version_app": "1.0.0",
       "tamano": "6 MB",
       "categoria": "Herramientas",
@@ -19,7 +19,7 @@
       "nombre": "Medicacion",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/medicacion-icono.png",
       "resena_corta": "Controla tu medicacion.",
-      "descripcion_larga": "Lleva un control de tu medicacion, con un inventario, aviso de tomas, de citas medicas, todo ello avisado por mensaje en el calendario.",
+      "descripcion_larga": "Lleva un control de tu medicacion, con un inventario, aviso de tomas, de citas medicas, todo ello avisado por mensaje en el calendario y todo ello sin publicidad.",
       "version_app": "1.0.0",
       "tamano": "9 MB",
       "categoria": "Salud",
@@ -32,7 +32,7 @@
       "nombre": "Mi Garage",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/migarage.png",
       "resena_corta": "Controla el mantenimiento de tus vehiculos.",
-      "descripcion_larga": "Lleva el control de gastos y mantenimiento de tus vehiculo, cuanto consume, cuando le toca la ITV, cuando vence el seguro etc, poniendote una reseña en el calendario.",
+      "descripcion_larga": "Lleva el control de gastos y mantenimiento de tus vehiculo, cuanto consume, cuando le toca la ITV, cuando vence el seguro etc, poniendote una reseña en el calendario y todo ellobsin publicidad.",
       "version_app": "1.0.0",
       "tamano": "9 MB",
       "categoria": "Coches",
@@ -59,7 +59,7 @@
       "nombre": "Mis Recetas",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MisRecetas.png",
       "resena_corta": "Recopilacion de recetas faciles y sencillas.",
-      "descripcion_larga": "Con esta aplicacion tendras un monton de recetas, faciles de hacer, y ordenadas por categorias, entrantes, postres, snaks, etc, que se iran actualizando periodicamente.",
+      "descripcion_larga": "Con esta aplicacion tendras un monton de recetas, faciles de hacer, y ordenadas por categorias, entrantes, postres, snaks, etc, que se iran actualizando periodicamente y todobellobsin publicidad",
       "version_app": "2.0.0",
       "tamano": "9 MB",
       "categoria": "Comida",
@@ -73,7 +73,7 @@
       "nombre": "Mi Despensa",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MiDespensa.png",
       "resena_corta": "Lleva in control de tu despensa.",
-      "descripcion_larga": "Controla tu despensa, y vincula tus compras en la apk Mi lista inteligente, para mantener actualizada tu despensa.",
+      "descripcion_larga": "Controla tu despensa, y vincula tus compras en la apk Mi lista inteligente, para mantener actualizada tu despensa y todo ello sin publicidad.",
       "version_app": "1.0.0",
       "tamano": "6 MB",
       "categoria": "Herramientas",
@@ -81,7 +81,20 @@
       "fecha_actualizacion": "2026-11-12",
       "nuevo": true
   
-    }
+    },
+    {
+      "id": "Mis_Documentos",
+      "nombre": "MisDocumentos",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MisDocumentos.png",
+      "resena_corta": "Gestiona tu documentacio",
+      "descripcion_larga": "Desde esta aplicacion podras gestiona toda tu documentacion, desde caducidad de documentos, hasta archivos de contratos, nominas, escrituras etc, buen mediante documentos pdf y/o fotogafias, avisandota si quieres en el calendario de google de las caducidades y con notificaciones push cada vez que abras de aplicacion, y todo ello sin publicidad.",
+      "version_app": "1.0.0",
+      "tamano": "9 MB",
+      "categoria": "Herramientas",
+      "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Herramientas-v2.0.0/misdocumentos.V-1.apk",
+      "fecha_actualizacion": "2026-11-13",
+      "nuevo": true
+    
   ]
     }
   
