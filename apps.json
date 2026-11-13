@@ -107,10 +107,30 @@
   "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misdocumentos-4.jpg"
 ],
       "nuevo": true 
+    },
+     {
+      "id": "mis_apks",
+      "nombre": "Mis APKS",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/misalud.png",
+      "resena_corta": "Tienda de aplicaciones gratuita",
+      "descripcion_larga": "Tienda de aplicaciones donde podras descargar todas mis aplicacione, oor supuesto de manera gratuita y sin publicidad.",
+      "version_app": "5.0.0",
+      "tamano": "9 MB",
+      "categoria": "Herramientas",
+      "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Herramientas-3.0.0/misapks.V-4.apk",
+      "fecha_actualizacion": "2026-11-13", 
+    "capturas": [
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misapks-1.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misapks-2.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misapks-3.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misapks-4.jpg",
+   "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misapks-5.jpg",
+],
+      "nuevo": true
     }
-    
-      ]
-}
+  ]
+    }
+  
 
 
   
