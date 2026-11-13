@@ -65,6 +65,13 @@
       "categoria": "Comida",
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Comida/misrecetas.V-2.apk",
       "fecha_actualizacion": "2026-11-12",
+      "capturas": [
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misrecetas-1.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misrecetas-2.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misrecetas-3.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misrecetas-4.jpg",
+ "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misrecetas-5.jpg",
+],
       "nuevo": true
     
     },
