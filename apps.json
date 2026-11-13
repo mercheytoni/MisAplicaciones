@@ -87,9 +87,7 @@
       "nombre": "MisDocumentos",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MisDocumentos.png",
       "resena_corta": "Gestiona tu documentacion",
-      "descripcion_larga": "Desde esta aplicacion podras gestionar toda tu documentacion, desde caducidad de documentos, 
-      hasta archivos de contratos, nominas, escrituras etc, bien mediante documentos pdf y/o fotogafias, avisandota si quieres 
-      en el calendario de google de las caducidades y con notificaciones push cada vez que abras de aplicacion, y todo ello sin publicidad.",
+      "descripcion_larga": "Desde esta aplicacion podras gestionar toda tu documentacion, desde caducidad de documentos,hasta archivos de contratos, nominas, escrituras etc, bien mediante documentos pdf y/o fotogafias, avisandote si quieres en el calendario de google de las caducidades y con notificaciones push cada vez que abras de aplicacion, y todo ello sin publicidad.",
       "version_app": "1.0.0",
       "tamano": "9 MB",
       "categoria": "Herramientas",
