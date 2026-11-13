@@ -111,7 +111,7 @@
      {
       "id": "mis_apks",
       "nombre": "Mis APKS",
-      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/misalud.png",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/misapks.png",
       "resena_corta": "Tienda de aplicaciones gratuita",
       "descripcion_larga": "Tienda de aplicaciones donde podras descargar todas mis aplicacione, oor supuesto de manera gratuita y sin publicidad.",
       "version_app": "5.0.0",
