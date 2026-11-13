@@ -93,6 +93,12 @@
       "categoria": "Herramientas",
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Herramientas-v2.0.0/misdocumentos.V-1.apk",
       "fecha_actualizacion": "2026-11-13",
+      "capturas": [
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misdocumentos-1.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misdocumentos-2.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misdocumentos-3.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misdocumentos-4.jpg"
+],
       "nuevo": true 
     }
     
