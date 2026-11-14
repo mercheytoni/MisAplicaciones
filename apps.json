@@ -127,9 +127,31 @@
    "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misapks-5.jpg"
 ],
       "nuevo": true
+     },       
+   {
+      "id": "mi_prensa",
+      "nombre": “Mi Prensa",
+      "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MiPrensa.png",
+      "resena_corta": "Toda la prensa, en un solo lugar.",
+      "descripcion_larga": "Aquí puedes ver todos la prensa nacional o internacional, solo tienes que pinchar el periódico o revista, elegir navegador (recomendable Brave, ignora las cookies) y leer la publicación que te guste. Si alguna no está, puedes añadir la tú mismo. Elige el modo claro u oscuro y a disfrutar, y todo ello como siempre, gratis y sin publicidad.",
+      "version_app": "3.0.0",
+      "tamano": "10 MB",
+      "categoria": "Herramientas",
+      "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Herramientas-4.0.0/miprensa.V-3.apk",
+      "fecha_actualizacion": "2026-11-14",
+"capturas": [
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/miprensa-1.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/miprensa-2.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/miprensa-3.jpg",
+  "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/miprensa-4.jpg",
+"https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/miprensa-5.jpg”
+],
+      "nuevo": true
     }
   ]
-    }
+}
+
+
   
 
 
