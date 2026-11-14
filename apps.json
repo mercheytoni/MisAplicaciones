@@ -130,7 +130,7 @@
      },       
    {
       "id": "mi_prensa",
-      "nombre": “MiPrensa",
+      "nombre":"Mi Prensa",
       "icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/MiPrensa.png",
       "resena_corta": "Toda la prensa, en un solo lugar.",
       "descripcion_larga": "Aquí puedes ver todos la prensa nacional o internacional, solo tienes que pinchar el periódico o revista, elegir navegador (recomendable Brave, ignora las cookies) y leer la publicación que te guste. Si alguna no está, puedes añadir la tú mismo. Elige el modo claro u oscuro y a disfrutar, y todo ello como siempre, gratis y sin publicidad.",
