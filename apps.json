@@ -13,7 +13,7 @@
       "categoria": "Herramientas",
       "enlace_descarga": "https://github.com/mercheytoni/MisAplicaciones/releases/download/Herramientas/milistainteligente.V-6.apk",
       "fecha_actualizacion": "2026-11-11",
-      "nuevo": true
+      "nuevo": false
     },{
       "id": "Mi_medicacion",
       "nombre": "Medicacion",
@@ -167,7 +167,7 @@
     "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/misradios4.jpg"
   ],
   "nuevo": true
-    }
+    } 
   ]
 }
   
