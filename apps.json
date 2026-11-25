@@ -147,7 +147,35 @@
   "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/miprensa-5.jpg"
 ],
       "nuevo": true
-    }
+    },
+    {
+"id": "mis_radios",
+"nombre": “Mis Radios",
+"icono_url": "https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/
+misradioslogo.png",
+"resena_corta": "Radios de España",
+"descripcion_larga": "Aquí puedes oir todas las emisoras de radio nacional, solo
+tienes que pinchar la emisora y automaticamente la empezaras a oir.
+y todo ello como siempre, gratis y sin publicidad.",
+"version_app": "3.0.0",
+"tamano": "10 MB",
+"categoria": "Herramientas",
+"enlace_descarga": "PEGA AQUÍ EL ENLACE COPIADO",
+"fecha_actualizacion": "2026-11-25",
+"capturas": [
+"https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/
+misradios1.jpg",
+"https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/
+misradios2.jpg",
+"https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/
+misradios3.jpg",
+"https://raw.githubusercontent.com/mercheytoni/MisAplicaciones/main/Capturas/
+misradios4.jpg",
+],
+"nuevo": true
+}
+]
+}
   ]
 }
 
